@@ -8,7 +8,7 @@ I'm Interested in
 ![Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ----
 
-Contact Me By
+Contact Me by
 
 ![Blog Badge](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=(https://velog.io/@pro-yeong))
 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)
