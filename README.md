@@ -19,7 +19,7 @@ Contact Me by
   <a href="https://velog.io/@pro-yeong">
     <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="velog Badge"/>
   </a>
-  <a href="mailto:snugyun01@gmail.com">
+  <a href="mailto:proyeongs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="gmail Badge"/>
   </a>
 </div>
